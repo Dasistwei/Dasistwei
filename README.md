@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Wei
 #### I am a web developer
+Currently working on building a codepen like project.
 
 Skills: REACT / JS / HTML / CSS
 
