@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Wei
 #### I am a web developer
-![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: REACT / JS / HTML / CSS
 
