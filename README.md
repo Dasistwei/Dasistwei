@@ -2,7 +2,7 @@
 #### I am a web developer
 Currently working on building a codepen like project.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS/ Node.js /MongoDB
 
 - 🔭 I’m currently working on this page. 
 
